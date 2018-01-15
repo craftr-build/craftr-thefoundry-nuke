@@ -1,0 +1,5 @@
+['cfg(win32)'.cxx]
+compiler = "msvc:100"
+
+[nuke]
+install_dir = "C:\\Program Files\\Nuke10.5v3"
