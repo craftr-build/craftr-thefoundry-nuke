@@ -1,8 +1,6 @@
 
-namespace = 'nuke-sdk'
-
 import craftr, {path} from 'craftr'
-import cxx from 'craftr/lang/cxx'
+import cxx from '@craftr/cxx'
 
 nuke_install_dir = craftr.options['nuke.install_dir']
 
